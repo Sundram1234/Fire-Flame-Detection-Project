@@ -74,3 +74,39 @@ void loop() {
     Serial.println("✅ Safe");
   }
   delay(500
+  # 🔥 Project Title
+
+...description...
+
+## 🔧 Components Required
+...table...
+
+## 🔌 Circuit Connections
+...table...
+
+## 💻 Arduino Code
+...code...
+
+## 🖼 Circuit Diagram
+![Circuit](circuit.png)
+
+✅ ✅ ✅
+
+🔽 **Yahan daalna hai:**
+
+## 👨‍💻 Developed by
+
+**Sundram Savre**  
+Embedded Systems & IoT Enthusiast  
+📍 India
+
+---
+
+## 📫 Contact = 8234002449
+## 📫 Contact
+
+GitHub: [Sundram1234](https://github.com/Sundram1234)  
+Email: sundramsarve@.com 
+
+
+For queries or collaboration, feel free to reach out via GitHub or LinkedIn.
